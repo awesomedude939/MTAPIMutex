@@ -1,3 +1,3 @@
 reupload
-https://v3rmillion.net/showthread.php?tid=434180
-https://pastebin.com/raw/UwFCVrhS
+thread : https://v3rmillion.net/showthread.php?tid=434180
+pastebin : https://pastebin.com/raw/UwFCVrhS
