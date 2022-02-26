@@ -7,5 +7,5 @@ pastebin : https://pastebin.com/raw/UwFCVrhS
 script : 
 
 ```lua
-if not getgenv().MTAPIMutex then loadstring(game:HttpGet("https://raw.githubusercontent.com/awesomedude939/MTAPIMutex/main/main", true))() end
+if not getgenv().MTAPIMutex then loadstring(game:HttpGet("https://raw.githubusercontent.com/awesomedude939/MTAPIMutex/main/original.lua", true))() end
 ```
