@@ -1,11 +1,13 @@
-MT-API is a next-generation hooking API that makes metatable hooking extremely easy to do, even for beginners.
+(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gyazo.com%2F16c79a23c58758a96b097a1ff082fc2d.png)
+
+**MT-API** is a next-generation hooking API that makes metatable hooking extremely easy to do, even for beginners.
 
 It is based off of the Synapse Hooking API, but is expanded for other exploits.
 
 ____________________________________________________________________________________________________________
 
 
-Features:
+**Features**:
 Compatibility between Elysian/ProtoSmasher without any code changes.
 Easy to use, powerful but sleek API.
 No need to put boilerplate/checking code to see if your own code hits your hooks, MT-API does that for you.
