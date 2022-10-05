@@ -7,7 +7,7 @@ It is based off of the Synapse Hooking API, but is expanded for other exploits.
 ____________________________________________________________________________________________________________
 
 
-**Features**:
+--**Features**--:
 Compatibility between Elysian/ProtoSmasher without any code changes.
 Easy to use, powerful but sleek API.
 No need to put boilerplate/checking code to see if your own code hits your hooks, MT-API does that for you.
