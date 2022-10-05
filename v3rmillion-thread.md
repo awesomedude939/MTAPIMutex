@@ -1,4 +1,4 @@
-![Original Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gyazo.com%2F16c79a23c58758a96b097a1ff082fc2d.png)
+![Original Image]([https://raw.githubusercontent.com/awesomedude939/MTAPIMutex/main/mtapi.png])
 
 **MT-API** is a next-generation hooking API that makes metatable hooking extremely easy to do, even for beginners.
 
