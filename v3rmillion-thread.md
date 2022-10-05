@@ -7,7 +7,7 @@ It is based off of the Synapse Hooking API, but is expanded for other exploits.
 ____________________________________________________________________________________________________________
 
 
-<u<b>Features</b></u>:
+<u><b>Features</b></u>:
 Compatibility between Elysian/ProtoSmasher without any code changes.
 Easy to use, powerful but sleek API.
 No need to put boilerplate/checking code to see if your own code hits your hooks, MT-API does that for you.
@@ -16,7 +16,7 @@ It just works.
 
 ____________________________________________________________________________________________________________
 
-<u<b>Documentation</b></u>:
+<u><b>Documentation</b></u>:
 
 Using MT-API was made to be very easy. You can add a hook just like this:
 Code:
@@ -100,7 +100,7 @@ game.ReplicatedStorage.Test:AddCallHook("FireServer", function() end)
 
 ____________________________________________________________________________________________________________
 
-<u<b>Installation</b></u>:
+<u><b>Installation</b></u>:
 MT-API can be installed with one line in your script.
 
 Code:
